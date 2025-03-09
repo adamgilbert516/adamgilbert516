@@ -3,9 +3,9 @@
 <h2>👨‍💻 STEM Education Games:</h2>
 
 - <b>Scratch Games</b>
-  - [Parallel, Perpendicular, or Neither](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Parallel, Perpendicular, or Neither]
 - <b>Python</b>
-  - [Triangle Classification Sort](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(in Progress)</b></i>
+  - [Triangle Classification Sort] <b><i>(in Progress)</b></i>
 
 <h2> 🌱 Relevant Coursework:</h2>
 
