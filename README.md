@@ -7,7 +7,7 @@
 - <b>Python</b>
   - [Triangle Classification Sort](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(in Progress)</b></i>
 
-<h3> 🌱 Relevant Coursework:</h3>
+<h2> 🌱 Relevant Coursework:</h2>
 
 - <b>Brown University</b>
   - CS15: Object-Oriented Programming w/ Java [2014]
@@ -15,7 +15,7 @@
 - <b>Harvard University (edX)</b>
   - CS50: Introduction to Computer Science [in Progress]
 
-<h4> 🤳 Connect with me:</h4>
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AdamGilbert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
