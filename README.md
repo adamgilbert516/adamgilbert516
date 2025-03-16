@@ -5,7 +5,7 @@
 - <b>Scratch Games</b>
   - [Parallel, Perpendicular, or Neither](https://github.com/adamgilbert516/parallel_perp_neither)
 - <b>Python</b>
-  - [Triangle Classification Sort] <b><i>(in Progress)</b></i>
+  - [Series Python Project]
 
 <h2> 🌱 Relevant Coursework:</h2>
 
