@@ -1,12 +1,18 @@
 <h1>Adam Gilbert <br/><a href="https://www.linkedin.com/in/adam-gilbert-715ba8154/">STEM Educator & Software Developer</a></h1>
 
-<h2>👨‍💻 STEM Education Games:</h2>
+<h2>🖥️ Web Developement:</h2>
 
-- <b>Scratch Games</b>
+- <b>AI Tools</b>
+  - [Geometry AI Tutor](https://github.com/adamgilbert516/geometry-tutor-ai)
+
+<h2>👨‍💻 STEM Education:</h2>
+
+- <b>Games</b>
   - [Parallel, Perpendicular, or Neither](https://github.com/adamgilbert516/parallel_perp_neither)
-- <b>Python</b>
+- <b>Student Projects</b>
   - [Series Coding Project](https://github.com/adamgilbert516/series.coding_project)
 
+  
 <h2> 🌱 Relevant Coursework:</h2>
 
 - <b>Brown University</b>
