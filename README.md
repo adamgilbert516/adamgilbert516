@@ -3,7 +3,7 @@
 <h2>🖥️ Web Developement:</h2>
 
 - <b>AI Tools</b>
-  - [Geometry AI Tutor](https://github.com/adamgilbert516/geometry-tutor-ai)
+  - [Geometry AI Tutor](https://github.com/adamgilbert516/geometry-ai-tutor)
 
 <h2>👨‍💻 STEM Education:</h2>
 
