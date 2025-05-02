@@ -1,15 +1,16 @@
-<h1>Adam Gilbert <br/><a href="https://www.linkedin.com/in/adam-gilbert-715ba8154/">STEM Educator & Software Developer</a></h1>
+<h1>Adam Gilbert <br/><a href="https://www.linkedin.com/in/adam-gilbert-715ba8154/">STEM Educator, Software Developer, and Data Analyst</a></h1>
+
+<h2>📉 Data Analysis: </h2>
+  
+  - [Clustering U.S. Colleges by Cost, Aid & Graduation Outcomes](https://github.com/adamgilbert516/higher-ed-clustering)
 
 <h2>🖥️ Web Developement:</h2>
 
-- <b>AI Tools</b>
   - [Geometry AI Tutor](https://github.com/adamgilbert516/geometry-ai-tutor)
 
-<h2>👨‍💻 STEM Education:</h2>
+<h2>👨‍💻 Education Activities:</h2>
 
-- <b>Games</b>
   - [Parallel, Perpendicular, or Neither](https://github.com/adamgilbert516/parallel_perp_neither)
-- <b>Student Projects</b>
   - [Series Coding Project](https://github.com/adamgilbert516/series.coding_project)
 
   
@@ -19,7 +20,8 @@
   - CS15: Object-Oriented Programming w/ Java [2014]
   - CS16: Algorithms & Data Structures [2015]
 - <b>Harvard University (edX)</b>
-  - CS50: Introduction to Computer Science [in Progress]
+  - CS50: Introduction to Computer Science
+  - CS50: Introduction to Data Science with Python
 
 <h2> 🤳 Connect with me:</h2>
 
