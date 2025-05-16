@@ -9,6 +9,7 @@
 <h2>🖥️ Web Developement:</h2>
 
   - [Geometry AI Tutor](https://github.com/adamgilbert516/geometry-ai-tutor)
+  - [Levantina](https://github.com/adamgilbert516/levantina)
 
 <h2>👨‍💻 Education Activities:</h2>
 
