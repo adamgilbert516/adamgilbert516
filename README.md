@@ -1,4 +1,6 @@
-<h1>Adam Gilbert <br/><a href="https://www.linkedin.com/in/adam-gilbert-715ba8154/">STEM Educator, Software Developer, and Data Analyst</a></h1>
+<h1> Adam Gilbert <br>
+  <a href="https://www.linkedin.com/in/adam-gilbert-715ba8154/">STEM Educator, Software Developer, and Data Analyst</a>
+</h1>
 
 <h2>📉 Data Analysis: </h2>
   
@@ -17,11 +19,14 @@
 <h2> 🌱 Relevant Coursework:</h2>
 
 - <b>Brown University</b>
-  - CS15: Object-Oriented Programming w/ Java [2014]
-  - CS16: Algorithms & Data Structures [2015]
+  - CS15: Object-Oriented Programming with Java
+  - CS16: Algorithms & Data Structures
 - <b>Harvard University (edX)</b>
-  - CS50: Introduction to Computer Science
-  - CS50: Introduction to Data Science with Python
+  - CS50: Introduction to Computer Science [2025]
+  - CS50: Introduction to Web Programming with Python & JavaScript (In Progress)
+  - CS50: Introduction to Data Science with Python (In Progress)
+- <b>Stanford University</b>
+  - CS193p: Developing Applications for iOS using SwiftUI (In Progress)
 
 <h2> 🤳 Connect with me:</h2>
 
